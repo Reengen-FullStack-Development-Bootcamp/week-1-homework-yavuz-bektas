@@ -2,10 +2,9 @@
   <v-app id="inspire">
     <v-app-bar class="pink lighten-4" app color="white" flat>
       <v-container class="py-0 fill-height">
-        <p>Fake</p>
+        <p>Shops</p>
         <v-avatar class="mr-10" size="32"
-          ><img src="https://cdn.dsmcdn.com/web/logo/ty-logo.svg"
-        /></v-avatar>
+          ></v-avatar>
 
         <div class="text-center">
           <v-menu offset-y>
